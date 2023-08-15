@@ -1,24 +1,30 @@
 ![Header](./github-header-image.png)
 
 
-<h1 align="left">Hi 👋, I'm Danish</h1>
-<h3 align="left">Product Marketer turned software engineer</h3>
+<h1 align="left">Hi, I'm Danish</h1>
+<h3 align="left">Terminal-slinging marketer 💻📈🚀</h3>
 
 <img width="400" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🔭 I’m currently working on **Pushing product hunt on the blockchain**
+I'm a seasoned marketer turned software engineer, uniquely blending creativity with code to craft user-centric digital solutions. Here's a little about me:
 
-- 🌱 I’m currently learning **Golang, Mathematics for AI**
+<h3>Snapshots of My Journey</h3>
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+🛠️ 4+ years of building bridges between creativity and code as a software engineer.
 
-- 💬 Ask me about **react, nodejs, marketing, product management,**
+🤖 Channeling my passion into my current project: the AI Companion SaaS Platform.
 
-- 📫 How to reach me **danishafzalkhan@gmail.com**
+🔗 Delving into the intricate world of blockchain as a revolutionary backend.
 
-- ⚡ Fun fact **I am funny!**
+🌍 On the lookout to collaborate with groundbreaking startups carving a mark in the world.
 
-<h3 align="left">Connect with me:</h3>
+🗨️ Dive into a conversation with me about React, Node.js, marketing sorcery, or product strategies.
+
+📮 Eager to connect? Ping me at danishafzalkhan@gmail.com.
+
+⚡ Did you know? I can converse in 4 diverse languages. Multilingualism for the win!
+
+<h3 align="left">My twitter:</h3>
 <p align="left">
 <a href="https://twitter.com/danishafzalkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danishafzalkhan" height="30" width="40" /></a>
 </p>
