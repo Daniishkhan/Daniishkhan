@@ -6,7 +6,7 @@
 
 <img width="400" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-I'm a seasoned marketer turned software engineer, uniquely blending creativity with code to craft user-centric digital solutions. Here's a little about me:
+I'm a software engineer, uniquely blending creativity with code to craft user-centric digital solutions. Here's a little about me:
 
 <h3>Snapshots of My Journey</h3>
 
