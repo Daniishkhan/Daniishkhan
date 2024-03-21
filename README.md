@@ -2,15 +2,15 @@
 
 
 <h1 align="left">Hi, I'm Danish</h1>
-<h3 align="left">Terminal-slinging marketer 💻📈🚀</h3>
+<h3 align="left">AI Focused Software Engineer💻📈🚀</h3>
 
 <img width="400" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-I'm a software engineer, uniquely blending creativity with code to craft user-centric digital solutions. Here's a little about me:
+ I am a Senior Software Engineer focused on building LLM powered AI applications. Here's a little about me:
 
 <h3>Snapshots of My Journey</h3>
 
-🛠️ 4+ years of building bridges between creativity and code as a software engineer.
+🛠️ 5+ years of building bridges between creativity and code as a software engineer.
 
 🤖 Channeling my passion into my current project: the AI Companion SaaS Platform.
 
