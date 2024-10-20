@@ -10,9 +10,9 @@
 
 <h3>Snapshots of My Journey</h3>
 
-🛠️ 5+ years of building bridges between creativity and code as a software engineer.
+🛠️ 5+ years of building bridges between data engineering and full stack development
 
-🤖 Channeling my passion into my current project: the AI Companion SaaS Platform.
+🤖 Channeling my passion into building LLM powered applicatons with opensource and OpenAI models
 
 🔗 Delving into the intricate world of blockchain as a revolutionary backend.
 
