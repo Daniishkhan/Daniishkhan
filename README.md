@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi, I'm Danish</h1>
-<h3 align="left">AI Focused Software Engineer💻📈🚀</h3>
+<h3 align="left">Senior Software Engineer💻📈🚀</h3>
 
 <img width="400" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
