@@ -2,11 +2,11 @@
 
 
 <h1 align="left">Hi, I'm Danish</h1>
-<h3 align="left">Senior Software Engineer💻📈🚀</h3>
+<h3 align="left">Full Stack AI Engineer💻📈🚀</h3>
 
 <img width="400" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
- I am a Senior Software Engineer focused on building LLM powered AI applications. Here's a little about me:
+ I am a Senior AI Engineer focused on building LLM powered AI applications. Here's a little about me:
 
 <h3>Snapshots of My Journey</h3>
 
