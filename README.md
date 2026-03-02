@@ -17,8 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;AI+%26+LLM+Application+Builder;3+Years+Deep+in+AI+Startups;Turning+Complex+Problems+Into+Shipped+Products" alt="Typing SVG" />
 </p>
 
-<img align="right" width="380" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
-
 ---
 
 ## ⚡ The Quick Version
@@ -47,15 +45,6 @@ Past Life     → Blockchain backends (yes, really)
 - 🌍 Always looking to collaborate with teams building something that **actually matters**
 - 🗣️ I speak **4 languages** — which turns out to be surprisingly useful in global remote teams
 - 📬 Reach me: **danishafzalkhan@gmail.com**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danishafzalkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishafzalkhan&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
