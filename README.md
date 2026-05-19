@@ -33,7 +33,7 @@ I operate at the intersection of **product thinking** and **deep technical execu
 Full Stack    → React · Node.js · TypeScript · Next.js
 AI / LLM      → OpenAI · LangChain · RAG Pipelines · Fine-tuning
 Infra         → AWS · Docker · PostgreSQL · Redis
-Past Life     → Blockchain backends (yes, really)
+Past Life     → SPAs, HTMX and Zig (Yeah, you read it right)
 ```
 
 ---
